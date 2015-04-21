@@ -1,0 +1,19 @@
+CC=cc
+LEX=lex
+
+
+CFLAGS=-w
+
+scan: lex.yy.c
+	$(CC) lex.yy.c $(CFLAGS) -o scan
+
+
+lex.yy.c: scan.l
+	$(LEX) scan.l
+
+
+clean: rm -rf lex.yy.c scan
+
+ 
+
+

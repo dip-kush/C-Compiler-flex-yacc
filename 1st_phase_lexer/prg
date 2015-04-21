@@ -1,0 +1,14 @@
+int main(){
+
+
+/* this 
+is 
+a comment */
+int a=5, b=8, c, 45identifier;
+if (a==4){
+    printf("hello world);
+}
+/*
+c=a+b;
+}
+

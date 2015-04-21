@@ -1,0 +1,34 @@
+func()
+{
+ 	int h=10;
+}
+
+int main()
+{
+/* asddgkas
+asdkkl
+*/
+
+int a,b;
+int c;
+float f;
+float a;
+for(a=0;a<10;a++)
+{
+	for(b=0;b<5;b++)
+	{
+		if(a==10)
+		{
+		f=a;	
+		}
+
+	}
+}
+
+while(f<9)
+{
+	a++;
+}
+
+
+}
