@@ -1,0 +1,17 @@
+Type	Symbol
+311	FOR
+263	INC_OP
+258	i
+258	b
+258	i
+258	i
+307	ELSE
+306	IF
+258	b
+258	a
+271	and_op
+258	c
+258	b
+258	a
+291	INT
+291	INT
